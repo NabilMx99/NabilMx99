@@ -55,6 +55,8 @@
     <img alt="GitHub Stats" src="https://github-readme-stats-azure-zeta-99.vercel.app/api?username=NabilMx99&show=prs_merged&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark"/>
     &emsp;
     <img alt="Top Languages" src="https://github-readme-stats-azure-zeta-99.vercel.app/api/top-langs/?username=NabilMx99&layout=donut&exclude_repo=my-portfolio-with-react,skills-introduction-to-github-copilot,skills-introduction-to-repo-security,skills-introduction-to-codespaces,skills-introduction-to-codeql&theme=github_dark"/>
+    &emsp;
+    <img alt="roadmap.sh Progress" src="https://roadmap.sh/card/tall/6905e59bb0418a041e029ba2?variant=dark&roadmaps=git-github"/>
 </div>
 
 <h2>🏆 GitHub Certifications</h2>
